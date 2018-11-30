@@ -28,11 +28,7 @@
 
 一部研究成果については、OSS として公開しています。
 
-### NCDSearch
-
-https://github.com/takashi-ishio/NCDSearch/
-
-与えられたソースコードと類似したものをすべて列挙、報告するツールです。NEC と共同で、ソフトウェア保守と進化に関する国際会議（ICSME 2018）にて論文を発表しています。
+ - **NCDSearch** (https://github.com/takashi-ishio/NCDSearch/) 与えられたソースコードと類似したものをすべて列挙、報告するツールです。NEC と共同で、ソフトウェア保守と進化に関する国際会議（ICSME 2018）にて論文を発表しています。
 
 
 
