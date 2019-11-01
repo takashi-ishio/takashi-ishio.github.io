@@ -100,7 +100,7 @@
  - 情報処理学会ソフトウェア工学研究会 卓越研究賞 (2017年9月)
  - IPSJ SIGSE ソフトウェアエンジニアリングシンポジウム 2017 インタラクティブ特別賞 (2017年9月)
  - IPSJ SIGSE ソフトウェアエンジニアリングシンポジウム 2016 最優秀論文賞 (2016年9月)
- - IPSJ SIGSE ソフトウェアエンジニアリングシンポジウム 2016 企業賞 (2015年9月)
+ - IPSJ SIGSE ソフトウェアエンジニアリングシンポジウム 2015 企業賞 (2015年9月)
  - IEEE 23rd International Conference on Program Comprehension Best Tool Demo Award (2015年5月)
  - 6th International Workshop on Empirical Software Engineering in Practice Best Paper Award (2014年11月)
  - 平成23年度電子情報通信学会ソフトウェアサイエンス研究会研究奨励賞 (2012年5月)
