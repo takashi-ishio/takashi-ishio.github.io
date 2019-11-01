@@ -36,10 +36,101 @@
  - **NCDSearch** (<https://github.com/takashi-ishio/NCDSearch/>) 与えられたソースコードと類似したものをすべて列挙、報告するツールです。NEC と共同で、ソフトウェア保守と進化に関する国際会議（ICSME 2018）にて論文を発表しています。
 
 
-## 最近の学会活動
+## 学会活動（国内）
 
- - 情報処理学会論文誌 ソフトウェア工学特集 2019 編集委員長
- - 情報処理学会 ソフトウェアエンジニアリングシンポジウム 2018 プログラム委員長
- - 情報処理学会 ソフトウェアエンジニアリングシンポジウム 2017 副プログラム委員長
- - IEEE Working Conference on Software Visualization 2017, 2018, 2019 Program Committee Member
- - 25th Asia-Pacific Software Engineering Conference Student Volunteer Co-Chairs
+ - 情報処理学会
+   - 情報処理学会論文誌 ソフトウェア工学特集号2019 編集委員長
+   - 情報処理学会論文誌 シニア査読委員(2018年6月1日～2021年5月31日)
+   - 情報処理学会論文誌 論文査読委員（2012年6月1日～2018年5月31日）
+ - 情報処理学会 ソフトウェア工学研究会
+   - 研究会幹事 (2017年度～現在)
+   - 運営委員(2010年度～2013年度)
+   - ソフトウェアエンジニアリングシンポジウム 2018 プログラム委員長
+   - ソフトウェアエンジニアリングシンポジウム 2017 副プログラム委員長
+   - ソフトウェアエンジニアリングシンポジウム 2011 企画委員長
+   - ソフトウェアエンジニアリングシンポジウム 2009 出版委員長
+   - ソフトウェアエンジニアリングシンポジウム 2014-2016, 2019 プログラム委員 
+ - ソフトウェア科学会
+   - ソフトウェア工学の基礎ワークショップ 2011, 2014-2019 プログラム委員
+   - ソフトウェア工学の基礎ワークショップ 2013 論文委員長
+   - 代表会員 2015年度
+   - 関西企画委員 2011年度-2014年度
+   - 2014年度 科学会大会 広報委員長
+ - その他
+   - ACM ICPC 連携委員 2016、運営委員 2014-2015
+
+## 学会活動（国際会議）
+
+ - Program Comittee Member
+   - APSEC2019 Research Track
+   - ICSME2019 Tool Demo Track 
+   - VISSOFT2019
+   - VISSOFT2018 PC Member
+   - APSEC2018 Research Track
+   - APSEC2018 SEIP Track
+   - ICST2018 Testing Tools Track
+   - VISSOFT2017
+   - ICST2017 Testing Tools Track
+   - AOAsia/Pacific2014 PC Member
+   - TJIA2014 Academic Committee Member (the 7th Thailand-Japan International Academic Conference)
+   - ICPC2014
+   - IWESEP2013
+   - IWESEP2012
+   - IWESEP2011
+   - MENSURA2011
+   - AOSD2011
+   - Modulariyt:aosd13 Industrial Track
+
+ - Organization
+   - APSEC2018 Student Volunteer Co-Chairs
+   - SANER2016 Registration Chair
+   - AOAsia2013 General Chair (Asia/Pacific Workshop on Aspect-Oriented Software Development co-located with AOSD2013)
+   - IWESEP2010 Program Chair
+   - AOAsia2009 Program Chair (Asian Workshop on Aspect-Oriented Software Development co-located with ASE2010)
+
+
+## 受賞
+
+### 研究に関する受賞
+
+ - IPSJ SIGSE ソフトウェアエンジニアリングシンポジウム 2019 インタラクティブ・ポスター賞 (2019年9月)
+ - 13th International Workshop on Software Clones People's Choice Award (2019年2月)
+ - IPSJ SIGSE ソフトウェアエンジニアリングシンポジウム 2018 ポスター・インタラクティブ賞 (2018年9月)
+ - 2018 DocGen Challenge runner-ups (Usefulness category) (2018年9月)
+ - 情報処理学会ソフトウェア工学研究会 卓越研究賞 (2017年9月)
+ - IPSJ SIGSE ソフトウェアエンジニアリングシンポジウム 2017 インタラクティブ特別賞 (2017年9月)
+ - IPSJ SIGSE ソフトウェアエンジニアリングシンポジウム 2016 最優秀論文賞 (2016年9月)
+ - IPSJ SIGSE ソフトウェアエンジニアリングシンポジウム 2016 企業賞 (2015年9月)
+ - IEEE 23rd International Conference on Program Comprehension Best Tool Demo Award (2015年5月)
+ - 6th International Workshop on Empirical Software Engineering in Practice Best Paper Award (2014年11月)
+ - 平成23年度電子情報通信学会ソフトウェアサイエンス研究会研究奨励賞 (2012年5月)
+ - 情報処理学会 山下記念研究賞 (2005年7月)
+ - IPSJ SIGSE オブジェクト指向シンポジウム 2003 優秀賞（研究論文）(2003年8月)
+
+### その他の活動に関する受賞
+
+ - 情報処理学会ソフトウェア工学研究会功績賞 (2019年3月)
+ - 情報処理学会コンピュータサイエンス領域功績賞 (2018年10月)
+ - 大阪大学総長奨励賞（研究部門）(2015年7月)
+
+
+### 論文執筆を指導した学生の受賞
+
+ - 幾谷 吉晴: 第25回ソフトウェア工学の基礎ワークショップ 貢献賞（ショートペーパー部門） (2018年11月)
+ - 嶋利 一真: 第25回ソフトウェア工学の基礎ワークショップ ライブ論文ポスター賞 (2018年11月)
+ - 上田 裕己: IEEE Computer Society Japan Chapter FOSE Young Researcher Award 2018 (2018年11月)
+ - 嶋利 一真: IPSJ SIGSE ソフトウェアエンジニアリングシンポジウム2017 学生奨励発表賞 (2017年9月)
+ - 竹之内 啓太: 第23回ソフトウェア工学の基礎ワークショップ 貢献賞（フルペーパー部門） (2016年12月)
+ - 松村 俊徳: 情報処理学会コンピュータサイエンス領域奨励賞 (2016年9月)
+ - 松村 俊徳: 情報処理学会ソフトウェア工学研究会 2015年度 学生研究賞 (2016年3月)
+ - 竹之内 啓太: IEEE Computer Society Japan Chapter FOSE Young Researcher Award 2015 (2015年12月)
+ - 阿部 修也: IPSJ SIGSE ソフトウェアエンジニアリングシンポジウム 2014 インタラクティブ賞 (2014年9月)
+ - 脇阪 大輝: 第183回ソフトウェア工学研究会 学生研究賞 (2014年3月)
+ - 柏原 由紀: IEEE Computer Society Japan Chapter FOSE Young Researcher Award 2013 (2013年11月)
+ - 工藤 良介: 情報処理学会コンピュータサイエンス領域奨励賞 (2013年9月)
+ - 工藤 良介: 情報処理学会ソフトウェア工学研究会 2012年度 学生研究賞 (2013年3月)
+ - 鹿島 悠: IPSJ SIGSE ソフトウェアエンジニアリングシンポジウム 2012 学生奨励賞 (2012年8月)
+ - 宗像 聡: 情報処理学会コンピュータサイエンス領域奨励賞 (2010年9月)
+ - 関山 太朗: 情報処理学会第72回全国大会 学生奨励賞 (2010年3月)
+ - 宗像 聡: 情報処理学会ソフトウェア工学研究会 2008年度 学生研究賞 (2009年3月)
+
