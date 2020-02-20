@@ -6,12 +6,12 @@ Associate Professor, Software Engineering Laboratory, Division of Information Sc
 
 ![photo]({{ site.url }}/assets/images/ishio.jpg)
 
-## Research Interests
+# Research Interests
 
 Supporting software development activities based on program analysis and visualization techniques.
 You can find main research contributions in [DBLP](https://dblp.org/pers/hd/i/Ishio:Takashi).
 
-## Research Funding
+# Research Funding
 
 Most of the research activities are funded by the JSPS KAKENHI.
 Some statistics are available on [KAKENHI Database](https://nrid.nii.ac.jp/en/nrid/1000060452413/).
@@ -19,12 +19,12 @@ Some statistics are available on [KAKENHI Database](https://nrid.nii.ac.jp/en/nr
 Our research team also often collaborates with companies in Japan such as NEC, NTTData, and JAMSS.
 
 
-## Research Tools
+# Research Tools
 
  - **NCDSearch** (<https://github.com/takashi-ishio/NCDSearch/>) is a code search tool deployed in industry.
 
 
-## Activities
+# Activities
 
  - Program Comittee Member
    - VISSOFT2020 Program Co-Chair
@@ -55,7 +55,7 @@ Our research team also often collaborates with companies in Japan such as NEC, N
    - SANER2016 Registration Chair
    - AOAsia2013 General Chair (Asia/Pacific Workshop on Aspect-Oriented Software Development co-located with AOSD2013)
 
-## Activities in Japan
+# Activities in Japan
 
  - IPSJ SIG Software Engineering
    - IPSJ Journal Editor-in-Chief of Special Issue on Software Engineering 2019
