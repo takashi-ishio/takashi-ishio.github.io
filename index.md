@@ -53,6 +53,7 @@
    - ソフトウェアエンジニアリングシンポジウム 2009 出版委員長
    - ソフトウェアエンジニアリングシンポジウム 2014-2016, 2019 プログラム委員 
  - ソフトウェア科学会
+   - ソフトウェア工学の基礎ワークショップ 2020 実行委員長
    - ソフトウェア工学の基礎ワークショップ 2011, 2014-2019 プログラム委員
    - ソフトウェア工学の基礎ワークショップ 2013 論文委員長
    - 代表会員 2015年度
@@ -64,31 +65,33 @@
 ## 学会活動（国際会議）
 
  - Program Comittee Member
+   - VISSOFT2020 Program Co-Chair
+   - First International Workshop on New Interfaces for Programming (NIP'20)
    - APSEC2019 Research Track
    - ICSME2019 Tool Demo Track 
-   - VISSOFT2019
-   - VISSOFT2018 PC Member
+   - VISSOFT2019 Research Track
+   - VISSOFT2018 Research Track
    - APSEC2018 Research Track
    - APSEC2018 SEIP Track
    - ICST2018 Testing Tools Track
-   - VISSOFT2017
+   - VISSOFT2017 Research Track
    - ICST2017 Testing Tools Track
    - AOAsia/Pacific2014 PC Member
    - TJIA2014 Academic Committee Member (the 7th Thailand-Japan International Academic Conference)
    - ICPC2014
+   - Modulariyt:aosd13 Industrial Track
    - IWESEP2013
    - IWESEP2012
    - IWESEP2011
    - MENSURA2011
    - AOSD2011
-   - Modulariyt:aosd13 Industrial Track
-
- - Organization
-   - APSEC2018 Student Volunteer Co-Chairs
-   - SANER2016 Registration Chair
-   - AOAsia2013 General Chair (Asia/Pacific Workshop on Aspect-Oriented Software Development co-located with AOSD2013)
    - IWESEP2010 Program Chair
    - AOAsia2009 Program Chair (Asian Workshop on Aspect-Oriented Software Development co-located with ASE2010)
+
+ - Organization
+   - APSEC2018 Student Volunteer Co-Chair
+   - SANER2016 Registration Chair
+   - AOAsia2013 General Chair (Asia/Pacific Workshop on Aspect-Oriented Software Development co-located with AOSD2013)
 
 
 ## 受賞
