@@ -2,6 +2,8 @@
 
 奈良先端科学技術大学院大学 先端科学技術研究科 情報科学領域 ソフトウェア工学研究室 准教授
 
+![photo]({{ site.url }}/assets/images/ishio.jpg)
+
 ## 研究テーマ
 
 はてなブログ <https://ishiotks.hatenablog.com/> にて研究室の詳しい個別テーマの紹介を始めました。
