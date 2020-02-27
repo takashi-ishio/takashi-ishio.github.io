@@ -2,7 +2,7 @@ Japanese / [English](index-en.html)
 
 # 石尾 隆
 
-奈良先端科学技術大学院大学 先端科学技術研究科 情報科学領域 ソフトウェア工学研究室 准教授
+奈良先端科学技術大学院大学 先端科学技術研究科 情報科学領域 [ソフトウェア工学研究室](https://naist-se.github.io/) 准教授 
 
 ![photo]({{ site.url }}/assets/images/ishio.jpg)
 

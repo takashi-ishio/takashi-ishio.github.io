@@ -2,7 +2,7 @@
 
 # Profile
 
-Associate Professor, Software Engineering Laboratory, Division of Information Science, Graduate School of Science and Technology, Nara Institute Science and Technology
+Associate Professor, [Software Engineering Laboratory](https://naist-se.github.io/), Division of Information Science, Graduate School of Science and Technology, Nara Institute Science and Technology
 
 ![photo]({{ site.url }}/assets/images/ishio.jpg)
 
