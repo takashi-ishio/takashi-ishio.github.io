@@ -55,6 +55,13 @@ Our research team also often collaborates with companies in Japan such as NEC, N
    - SANER2016 Registration Chair
    - AOAsia2013 General Chair (Asia/Pacific Workshop on Aspect-Oriented Software Development co-located with AOSD2013)
 
+ - Journal Peer Review
+   - IEEE Transactions on Software Engineering (TSE)
+   - Information and Software Technology (IST)
+   - Journal of Systems and Software (JSS)
+   - Sciecne of Computer Programming (SCP)
+   - Empirical Software Engineering (EMSE)
+
 # Activities in Japan
 
  - IPSJ SIG Software Engineering
