@@ -64,7 +64,7 @@ Japanese / [English](index-en.html)
  - その他
    - ACM ICPC 連携委員 2016、運営委員 2014-2015
 
-# 学会活動（国際会議）
+# 学会活動（国際）
 
  - Program Comittee Member
    - VISSOFT2020 Program Co-Chair
@@ -95,6 +95,12 @@ Japanese / [English](index-en.html)
    - SANER2016 Registration Chair
    - AOAsia2013 General Chair (Asia/Pacific Workshop on Aspect-Oriented Software Development co-located with AOSD2013)
 
+ - Journal Peer Review
+   - IEEE Transactions on Software Engineering (TSE)
+   - Information and Software Technology (IST)
+   - Journal of Systems and Software (JSS)
+   - Sciecne of Computer Programming (SCP)
+   - Empirical Software Engineering (EMSE)
 
 # 受賞
 
